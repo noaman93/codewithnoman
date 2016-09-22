@@ -160,13 +160,17 @@ body {
 .second-block .creative-tim {
 	/*position: relative;
 	left: 580px;*/
-	margin: 0 0 0 580px;
+	/*margin: 0 0 0 580px;*/
+}
+
+.second-block .about {
+	text-align: center;
 }
 
 .second-block .first-para {
 	text-align: center;
 	font-size: 20px;
-	width: 80%;
+	/*width: 80%;*/
 	margin-right: auto;
     margin-left: auto;
 	line-height: 32px;
@@ -216,16 +220,20 @@ body {
 .third-block #stack-head {
 	font-size: 40px;
 	font-weight: 900;
-	text-align: center;
+	/*text-align: center;*/
 	line-height: 100%;
     letter-spacing: -1px;
     color: rgba(0, 0, 0, 0.8);
 }
 
+.third-block .about {
+	text-align: center;
+}
+
 .third-block #stack-head-img {
-	position: relative;
-	left: 570px;
-	bottom: 30px;
+	/*position: relative;*/
+	/*left: 570px;*/
+	/*bottom: 30px;*/
 }
 
 .third-block .caption p {
