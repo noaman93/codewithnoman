@@ -28,14 +28,18 @@ body {
 
 /*Navbar end*/
 
+img {
+	width: 100%;
+}
+
 .banner {
-	background-image: url("images/banner.PNG");
-	background-position: center;
+/* 	background-image: url("images/banner.PNG"); */
+/* 	background-position: center;
 	background-size:cover;
 	background-repeat:no-repeat;
 	width: 100%;
 	height: 410px;
-	margin-top: 15px;
+	margin-top: 15px; */
 }
 
 .banner h1 {
